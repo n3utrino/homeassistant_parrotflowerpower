@@ -2,6 +2,7 @@
   "domain": "parrotflowerpower",
   "name": "Parrot Flower Power BLE sensor integration",
   "documentation": "https://github.com/mbrentini/homeassistant_parrotflowerpower",
+  "issuetracker": "https://github.com/mbrentini/homeassistant_parrotflowerpower/issues",
   "requirements": ["btlewrap==0.1.1"],
   "dependencies": [],
   "codeowners": ["@mbrentini"],
